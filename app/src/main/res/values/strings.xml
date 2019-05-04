@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">BMDandPFCal</string>
+
+    <string name="print_text">PRINT UNICODE</string>
+    <string name="print_image">PRINT IMAGE</string>
+    <string name="print_report">CONVERT TEXT INTO CANVAS</string>
+    <string name="print_bitmap">BITMAP PRINT</string>
+
+    <string name="text_record">Print Text Record</string>
+    <string name="image_record">Print Image Record</string>
+    <string name="printsuccess">Success</string>
+    <string name="printfailed">Failure</string>
+
+    <string name="title_shop">Back</string>
+    <string name="title_gifts">For</string>
+    <string name="title_cart">Printer</string>
+    <string name="title_profile">BackToActivity</string>
+    <string name="dlg_insertion_msg">Updating..............</string>
+    <string name="Login">Login</string>
+    <string name="User">User</string>
+    <string name="billing">Billing</string>
+    <string name="report">Report</string>
+    <string name="setting">Setting</string>
+    <string name="semi_colon">:</string>
+    <string name="total_records">Total Billing Records</string>
+    <string name="lt_billing">LT Billing</string>
+    <string name="bulk_billing">Bulk Billing</string>
+    <string name="ht_billing">HT Billing</string>
+    <string name="billing_report">Billing Report</string>
+    <string name="tarrifwise_report">Tarrifwise Report</string>
+    <string name="arrears_report">Arrears Report</string>
+    <string name="tariff_code">Tariff Code :</string>
+    <string name="Account_ID">Account ID</string>
+    <string name="rrno">RRNO :</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="tariff">Tariff</string>
+    <string name="previous_reading">Prev Reading :</string>
+    <string name="mf">MF :</string>
+    <string name="constant">Constant :</string>
+    <string name="curronpeak">CurrOnPeak :</string>
+    <string name="currnormalpeak">CurrNormalPeak :</string>
+    <string name="currofpeak">CurrOfPeak :</string>
+    <string name="bmd_value">BMD Value :</string>
+    <string name="pf_value">PF Value :</string>
+    <string name="presentreading">PresentReading :</string>
+    <string name="noofdays">NoOfDays :</string>
+    <string name="prev_status">Prev Status :</string>
+    <string name="et_enter_current_reading">Enter Current Reading</string>
+    <string name="text_billing_status">STATUS</string>
+    <string name="text_billing_load"><![CDATA[Load ->]]></string>
+    <string name="text_billing_load_hp">HP</string>
+    <string name="text_billing_load_kw">KW</string>
+
+    <string name="et_enter_meter_digit">Enter Meter Digit</string>
+    <string name="et_enter_pf">Enter PF</string>
+    <string name="et_enter_bmd">Enter BMD</string>
+    <string name="et_enter_kvah">Enter KVAH</string>
+    <string name="et_enter_on_peak">Enter ON Peak</string>
+    <string name="et_enter_off_peak">Enter OFF Peak</string>
+    <string name="et_enter_normal_peak">Enter NORMAL Peak</string>
+    <string name="billigdate">Billing Date</string>
+
+
+    <string name="text_billing_prev_on_peak">Prev TOD ON Peak</string>
+    <string name="text_billing_prev_nor_peak">Prev TOD NORMAL Peak</string>
+    <string name="text_billing_prev_off_peak">Prev TOD OFF Peak</string>
+
+    <string name="user_cancelled_image">User cancelled image capture</string>
+    <string name="image_capture_failed">Sorry! Failed to capture image</string>
+    <string name="validate_image">Take image and then proceed&#8230;</string>
+    <string name="preview_bill">Preview Bill</string>
+
+    <string name="et_error_current_reading">Enter valid current reading or take status as Dial Over&#8230;</string>
+    <string name="et_error_dial_over_current_reading">Enter valid current reading or take status as other than Dial Over&#8230;</string>
+    <string name="et_error_meter_digit">Please enter valid current reading or check with meter digit reading&#8230;</string>
+    <string name="et_error_pf">Please enter valid PF value between 0 to 1&#8230;</string>
+    <string name="et_error_bmd">Please enter valid BMD value within 100&#8230;</string>
+    <string name="et_error_pd_recorded">Please enter valid PD Record value within 100&#8230;</string>
+    <string name="et_error_on_peak">Please enter valid on peak value&#8230;</string>
+    <string name="et_error_off_peak">Please enter valid off peak value&#8230;</string>
+    <string name="et_error_normal_peak">Please enter valid normal peak value&#8230;</string>
+    <string name="dlg_check_reading">Please check the reading&#8230;\nAverage Consumption is: </string>
+
+    <string name="no_image_captured">no image</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="skip">SKIP</string>
+    <string name="dlg_ab_normal_title">Ab Normal</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="login_role">
+        <item>--SELECT--</item>
+        <item>MR</item>
+        <item>AEE</item>
+        <item>AAO</item>
+        <item>ADMIN</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#F44336</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bgBottomNavigation">#fe485a</color>
+    <color name="black">#000</color>
+    <color name="transparent">#00000000</color>
+    <color name="red">#F44336</color>
+    <color name="white_greyish">#EEEEEE</color>
+    <color name="button_selectorcolor">#9E9E9E</color>
+    <color name="white">#fff</color>
+    <color name="white_blue">#A4AEF0</color>
+    <color name="billing_text_color">#2962FF</color>
+    <color name="billed_text_color">#000000</color>
+    <color name="yellow">#F1DA07</color>
+    <color name="navigation_item_background">#FFF9C4</color>
+</resources>

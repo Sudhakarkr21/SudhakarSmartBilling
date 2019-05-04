@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp4">4dp</dimen>
+    <dimen name="dp16">16dp</dimen>
+    <dimen name="dp8">8dp</dimen>
+    <dimen name="dp30">30dp</dimen>
+    <dimen name="text18">18sp</dimen>
+    <dimen name="text21">21sp</dimen>
+    <dimen name="dp96">96dp</dimen>
+    <dimen name="text16">16sp</dimen>
+    <dimen name="dp150">150</dimen>
+    <dimen name="dp2">2dp</dimen>
+    <item name="dp0_5" type="dimen" format="float">0.5</item>
+</resources>
